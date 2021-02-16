@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Wisdom Hove
 - 👀 I’m interested in Web/Software/Mobile Development
-- 🌱 I’m currently learning ...
 - 📫 How to reach me- email: hovewisdom@gmail.com, cell: +27 84 661 0668
 
 <!---
